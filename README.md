@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6667AB&height=200&section=header&text=Welcome!&desc=to%20Doram9%'s%20github&fontSize=60&fontAlign=30&fontAlignY=42&descAlign=36)
 
+<br>
+
+![Doram9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doram9&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doram9&layout=compact&theme=cobalt)](https://github.com/Doram9/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDoram9&count_bg=%236667AB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=true)](https://hits.seeyoufarm.com)
-
-![Doram9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doram9&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doram9&layout=compact&theme=cobalt)](https://github.com/Doram9/github-readme-stats)
-
 
 ### Stack
 <br>
