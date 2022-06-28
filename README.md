@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6667AB&height=200&section=header&text=Welcome!&desc=to%20Doram9%'s%20github&fontSize=60&fontAlign=30&fontAlignY=42&descAlign=36)
 
-
-[![Doram9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doram9)](https://github.com/Doram9/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doram9&layout=compact)](https://github.com/Doram9/github-readme-stats)
-<hr>
-
 ### Stack
 <br>
 
@@ -24,3 +19,10 @@
 |개인, 팀프로젝트 일정 관리 웹애플리케이션|2022.04 ~ 2022.06|개인 프로젝트|||
 |COSMOS(스터디 커뮤니티 웹 애플리케이션)|2022.06 ~ ing|팀 프로젝트|||
 
+<hr>
+
+[![Doram9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doram9)](https://github.com/Doram9/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doram9&layout=compact)](https://github.com/Doram9/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDoram9&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=true)](https://hits.seeyoufarm.com)
